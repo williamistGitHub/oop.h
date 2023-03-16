@@ -1,0 +1,6 @@
+# idrk what else to add here, please contribute more if its useful to you.
+.vscode
+.vs
+# example build output
+build.*
+*.o
