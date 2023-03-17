@@ -16,6 +16,11 @@ oop.h is a header only object oriented c99 library with classes and extending.
 
 --------------------------------------------------------------------------------
 
+Examples
+---------
+
+There are some examples of how to use the library in the `examples` folder in this repo. If you feel anything is missing, please make an issue!
+
 Contributing
 -------------
 

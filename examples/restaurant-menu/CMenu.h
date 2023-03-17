@@ -11,7 +11,7 @@ DECL_CLASS_FUNCS(Menu)
 END_CLASS_FUNCS(Menu)
 
 DEF_CLASS(Menu)
-    // Good coding practice: prefix private variables with underscores, since where is no way to force it
+    // Good coding practice: prefix private variables with underscores, since there is no way to force it
     int _menuLen;
     float _priceList[MENU_MAX_LEN];
     char _nameList[MENU_MAX_LEN][ITEM_NAME_MAX + 1];
